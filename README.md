@@ -1,2 +1,2 @@
 # datasciencecoursera
-Course Project (Data Science Fundamentals Using R, Coursera): Peer-graded Assignment 
+Course Project: Assemble your Toolbox - (Coursera) Data Science: Foundations using R Specialization (Sahran Riaz)
